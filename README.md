@@ -4,9 +4,9 @@ I am a Junior student at North China Electric Power University, under supervisio
 - 🔭 I’m currently interested in LLM Safety and Trustworthy AI.
 - 🔍 All my projects are in [GitHub](https://github.com/Kwwwww74)
 - 📚 I regularly write articles on [🍠](https://www.xiaohongshu.com/user/profile/5dc78d72000000000100a582?tab=note)
-- 📮 How to contact with me [kaiwenluo74@gmail.com]
+- 📮 How to contact with me kaiwenluo74@gmail.com
 
-**If you are also interested in LLM Safety, welcome to contact me for discussion!🥰🥰🥰**
+**If you are also interested in my research, welcome to contact me for discussion!🥰🥰🥰**
 
 
 
