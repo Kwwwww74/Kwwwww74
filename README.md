@@ -1,6 +1,15 @@
-<div align="center">
-# Hi there 👋
-</div>
+# Hi👋, I'm Kevin Luo
+I am a Junior student at North China Electric Power University, under supervision by Professor [Li Sun](https://sunli-ai.github.io). 
+
+- 🔭 I’m currently interested in LLM Safety and Trustworthy AI.
+- 🔍 All my projects are in [GitHub](https://github.com/Kwwwww74)
+- 📚 I regularly write articles on [🍠](https://www.xiaohongshu.com/user/profile/5dc78d72000000000100a582?tab=note)
+- 📮 How to contact with me [Gmail](kaiwenluo74@gmail.com)
+
+**If you are also interested in LLM Safety, welcome to contact me for discussion!🥰🥰🥰**
+
+
+
 <!--
 **Kwwwww74/Kwwwww74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
