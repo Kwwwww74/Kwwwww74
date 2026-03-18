@@ -2,6 +2,7 @@
 I am a Junior student at North China Electric Power University, under supervision by Professor [Li Sun](https://sunli-ai.github.io). 
 
 - 🔭 I’m currently interested in LLM Safety and Trustworthy AI.
+- 📑 Now I'm being a RA in NTU.
 - 🔍 All my projects are in [GitHub](https://github.com/Kwwwww74)
 - 📚 I regularly write articles on [🍠](https://www.xiaohongshu.com/user/profile/5dc78d72000000000100a582?tab=note)
 - 📮 How to contact with me kaiwenluo74@gmail.com
