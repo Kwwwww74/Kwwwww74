@@ -1,4 +1,4 @@
-# Hi👋, I'm Kevin Luo 🍆
+# Hi👋, I'm Kevin Luo 
 I am a Senior student at North China Electric Power University now, under supervision by Professor [Li Sun](https://sunli-ai.github.io). 
 
 - 🔭 I’m currently interested in LLM Safety and Trustworthy AI.
